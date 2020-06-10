@@ -1,0 +1,55 @@
+{
+  "name": "cui-icons-reference",
+  "version": "0.1.0",
+  "description": "Reference Site for Calcite UI Icons for React",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/node": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "@esri/calcite-ui-icons": "^3.3.0",
+    "babel-eslint": "^10.1.0",
+    "cross-env": "^7.0.2",
+    "fs-extra": "^9.0.0",
+    "number-to-words": "^1.2.4",
+    "react": "^16.13.1",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.9.0",
+    "@testing-library/react": "^10.2.0",
+    "@testing-library/user-event": "^11.0.1",
+    "calcite-react": "^0.52.0",
+    "calcite-ui-icons-react": "^0.17.0",
+    "react": "^16.13.1",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "build:icons": "babel-node ./scripts/generate.js",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Ryan Watkins",
+  "license": "ISC",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
