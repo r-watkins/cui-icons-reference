@@ -2,6 +2,7 @@
   "name": "cui-icons-reference",
   "version": "0.1.0",
   "description": "Reference Site for Calcite UI Icons for React",
+  "homepage": "https://r-watkins.github.io/cui-icons-reference/",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
@@ -22,6 +23,7 @@
     "@testing-library/user-event": "^11.0.1",
     "calcite-react": "^0.52.0",
     "calcite-ui-icons-react": "^0.17.0",
+    "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-copy-to-clipboard": "^5.0.2",
     "react-dom": "^16.13.1",
@@ -32,6 +34,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "build:icons": "babel-node ./scripts/generate.js",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
