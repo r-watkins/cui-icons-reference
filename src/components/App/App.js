@@ -10,13 +10,13 @@ import {
   H1,
   H4,
   TopNavList,
-  TopNavLink
+  TopNavLink,
 } from './styles';
 
 import logo from '../../images/logo.svg';
 
 // Component Definition
-const App = props => {
+const App = (props) => {
   // Icon components are generated and injected from scripts/generate.js
   return (
     <Container>
@@ -26,7 +26,7 @@ const App = props => {
 
           <H1>Calcite UI Icons for React</H1>
 
-          <H4>v0.17.0</H4>
+          <H4>v0.19.0</H4>
         </Title>
 
         <TopNavList>

@@ -9,17 +9,17 @@ import {
   Search,
   SliderContainer,
   SliderTitle,
-  SliderNumber
+  SliderNumber,
 } from './styles';
 
 import { iconComps } from './icons';
 
 // Component Definition
-const IconList = props => {
+const IconList = (props) => {
   // use icon props to set app list states of generated icons
   const [iconProps, setIconProps] = useState({
     size: 32,
-    color: 'currentColor'
+    color: 'currentColor',
   });
   const [icons] = useState(iconComps(iconProps));
   const [currentIcons, setcurrentIcons] = useState(iconComps(iconProps));
@@ -27,12 +27,12 @@ const IconList = props => {
   const [sizeValue, setSizeValue] = useState(iconProps.size);
 
   // search filter method
-  const onUserAction = inputValue => {
+  const onUserAction = (inputValue) => {
     setInputValue(inputValue);
 
     let updatedIcons = icons;
 
-    updatedIcons = updatedIcons.filter(function(item) {
+    updatedIcons = updatedIcons.filter(function (item) {
       return (
         item.props.name.toLowerCase().search(inputValue.toLowerCase()) !== -1
       );
@@ -46,13 +46,13 @@ const IconList = props => {
     setcurrentIcons(icons);
   };
 
-  const updateSizeValue = event => {
+  const updateSizeValue = (event) => {
     const size = parseInt(event.target.value, 10);
 
     setSizeValue(size);
     setIconProps({
       ...iconProps,
-      size
+      size,
     });
   };
 
