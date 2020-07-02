@@ -26,7 +26,7 @@ const App = (props) => {
 
           <H1>Calcite UI Icons for React</H1>
 
-          <H4>v0.19.0</H4>
+          <H4>v0.20.0</H4>
         </Title>
 
         <TopNavList>

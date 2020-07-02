@@ -441,6 +441,9 @@ import RectangleIcon from 'calcite-ui-icons-react/RectangleIcon';
 import RectanglePlusIcon from 'calcite-ui-icons-react/RectanglePlusIcon';
 import RedoIcon from 'calcite-ui-icons-react/RedoIcon';
 import RefreshIcon from 'calcite-ui-icons-react/RefreshIcon';
+import ReorderCardsIcon from 'calcite-ui-icons-react/ReorderCardsIcon';
+import ReorderGridIcon from 'calcite-ui-icons-react/ReorderGridIcon';
+import ReorderStackIcon from 'calcite-ui-icons-react/ReorderStackIcon';
 import ResetIcon from 'calcite-ui-icons-react/ResetIcon';
 import ReverseFIcon from 'calcite-ui-icons-react/ReverseFIcon';
 import ReverseIcon from 'calcite-ui-icons-react/ReverseIcon';
@@ -5955,6 +5958,42 @@ export const iconComps = (props) => {
       <IconContext.Consumer>
         {(iconProps) => (
           <RefreshIcon size={iconProps.size} color={iconProps.color} />
+        )}
+      </IconContext.Consumer>
+    </Icon>,
+
+    <Icon
+      name="ReorderCardsIcon"
+      key="ReorderCardsIcon"
+      import='import ReorderCardsIcon from "calcite-ui-icons-react/ReorderCardsIcon";'
+    >
+      <IconContext.Consumer>
+        {(iconProps) => (
+          <ReorderCardsIcon size={iconProps.size} color={iconProps.color} />
+        )}
+      </IconContext.Consumer>
+    </Icon>,
+
+    <Icon
+      name="ReorderGridIcon"
+      key="ReorderGridIcon"
+      import='import ReorderGridIcon from "calcite-ui-icons-react/ReorderGridIcon";'
+    >
+      <IconContext.Consumer>
+        {(iconProps) => (
+          <ReorderGridIcon size={iconProps.size} color={iconProps.color} />
+        )}
+      </IconContext.Consumer>
+    </Icon>,
+
+    <Icon
+      name="ReorderStackIcon"
+      key="ReorderStackIcon"
+      import='import ReorderStackIcon from "calcite-ui-icons-react/ReorderStackIcon";'
+    >
+      <IconContext.Consumer>
+        {(iconProps) => (
+          <ReorderStackIcon size={iconProps.size} color={iconProps.color} />
         )}
       </IconContext.Consumer>
     </Icon>,
