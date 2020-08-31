@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65385bb4270b79227c4d0e42686aff61",
+    "revision": "fe2145e36fafa450939c486b48f526fc",
     "url": "/cui-icons-reference/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cui-icons-reference/static/js/2.dfd83f98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a24c22163cebf7cc43f",
-    "url": "/cui-icons-reference/static/js/main.76e613a7.chunk.js"
+    "revision": "22fb0a2cfff16f3f8d2c",
+    "url": "/cui-icons-reference/static/js/main.4619f901.chunk.js"
   },
   {
     "revision": "160803d2dafdc4550536",
