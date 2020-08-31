@@ -64,6 +64,7 @@ import BlankIcon from "calcite-ui-icons-react/BlankIcon";
 import BlogIcon from "calcite-ui-icons-react/BlogIcon";
 import BluetoothIcon from "calcite-ui-icons-react/BluetoothIcon";
 import BoldIcon from "calcite-ui-icons-react/BoldIcon";
+import BookIcon from "calcite-ui-icons-react/BookIcon";
 import BookmarkIcon from "calcite-ui-icons-react/BookmarkIcon";
 import BooleanIcon from "calcite-ui-icons-react/BooleanIcon";
 import BoxChartIcon from "calcite-ui-icons-react/BoxChartIcon";
@@ -97,6 +98,7 @@ import CheckCircleFIcon from "calcite-ui-icons-react/CheckCircleFIcon";
 import CheckCircleIcon from "calcite-ui-icons-react/CheckCircleIcon";
 import CheckLayerIcon from "calcite-ui-icons-react/CheckLayerIcon";
 import CheckSquareIcon from "calcite-ui-icons-react/CheckSquareIcon";
+import CheckSquareFIcon from "calcite-ui-icons-react/CheckSquareFIcon";
 import ChevronDownIcon from "calcite-ui-icons-react/ChevronDownIcon";
 import ChevronLeftIcon from "calcite-ui-icons-react/ChevronLeftIcon";
 import ChevronRightIcon from "calcite-ui-icons-react/ChevronRightIcon";
@@ -108,6 +110,7 @@ import ChevronsUpIcon from "calcite-ui-icons-react/ChevronsUpIcon";
 import ChordDiagramIcon from "calcite-ui-icons-react/ChordDiagramIcon";
 import CircleFIcon from "calcite-ui-icons-react/CircleFIcon";
 import CircleIcon from "calcite-ui-icons-react/CircleIcon";
+import CircleAreaIcon from "calcite-ui-icons-react/CircleAreaIcon";
 import CircleDisallowedIcon from "calcite-ui-icons-react/CircleDisallowedIcon";
 import ClockIcon from "calcite-ui-icons-react/ClockIcon";
 import ClockDownIcon from "calcite-ui-icons-react/ClockDownIcon";
@@ -190,6 +193,7 @@ import ExitHighwayRightIcon from "calcite-ui-icons-react/ExitHighwayRightIcon";
 import ExpandIcon from "calcite-ui-icons-react/ExpandIcon";
 import ExportIcon from "calcite-ui-icons-react/ExportIcon";
 import ExtentIcon from "calcite-ui-icons-react/ExtentIcon";
+import ExtentFilterIcon from "calcite-ui-icons-react/ExtentFilterIcon";
 import EyedropperIcon from "calcite-ui-icons-react/EyedropperIcon";
 import FeatureDetailsIcon from "calcite-ui-icons-react/FeatureDetailsIcon";
 import FeatureLayerIcon from "calcite-ui-icons-react/FeatureLayerIcon";
@@ -225,6 +229,7 @@ import FolderStarIcon from "calcite-ui-icons-react/FolderStarIcon";
 import FollowIcon from "calcite-ui-icons-react/FollowIcon";
 import FollowPauseIcon from "calcite-ui-icons-react/FollowPauseIcon";
 import FollowPlayIcon from "calcite-ui-icons-react/FollowPlayIcon";
+import FooterIcon from "calcite-ui-icons-react/FooterIcon";
 import FootprintIcon from "calcite-ui-icons-react/FootprintIcon";
 import ForkLeftIcon from "calcite-ui-icons-react/ForkLeftIcon";
 import ForkMiddleIcon from "calcite-ui-icons-react/ForkMiddleIcon";
@@ -238,6 +243,7 @@ import FreehandIcon from "calcite-ui-icons-react/FreehandIcon";
 import FreehandAreaIcon from "calcite-ui-icons-react/FreehandAreaIcon";
 import FullScreenExitIcon from "calcite-ui-icons-react/FullScreenExitIcon";
 import FunctionIcon from "calcite-ui-icons-react/FunctionIcon";
+import GalleryIcon from "calcite-ui-icons-react/GalleryIcon";
 import GammaIcon from "calcite-ui-icons-react/GammaIcon";
 import GaugeIcon from "calcite-ui-icons-react/GaugeIcon";
 import GaugeSummaryIcon from "calcite-ui-icons-react/GaugeSummaryIcon";
@@ -285,6 +291,7 @@ import IndicatorIcon from "calcite-ui-icons-react/IndicatorIcon";
 import InfographicIcon from "calcite-ui-icons-react/InfographicIcon";
 import InformationFIcon from "calcite-ui-icons-react/InformationFIcon";
 import InformationIcon from "calcite-ui-icons-react/InformationIcon";
+import InformationLetterIcon from "calcite-ui-icons-react/InformationLetterIcon";
 import IntegerIcon from "calcite-ui-icons-react/IntegerIcon";
 import ItalicizeIcon from "calcite-ui-icons-react/ItalicizeIcon";
 import KeyIcon from "calcite-ui-icons-react/KeyIcon";
@@ -369,6 +376,7 @@ import MinusIcon from "calcite-ui-icons-react/MinusIcon";
 import MinusCircleIcon from "calcite-ui-icons-react/MinusCircleIcon";
 import MinusSquareIcon from "calcite-ui-icons-react/MinusSquareIcon";
 import MobileIcon from "calcite-ui-icons-react/MobileIcon";
+import MobileOffIcon from "calcite-ui-icons-react/MobileOffIcon";
 import MonitorIcon from "calcite-ui-icons-react/MonitorIcon";
 import MoonIcon from "calcite-ui-icons-react/MoonIcon";
 import MoveIcon from "calcite-ui-icons-react/MoveIcon";
@@ -419,6 +427,7 @@ import PlusCircleIcon from "calcite-ui-icons-react/PlusCircleIcon";
 import PlusSquareIcon from "calcite-ui-icons-react/PlusSquareIcon";
 import PointIcon from "calcite-ui-icons-react/PointIcon";
 import PolygonIcon from "calcite-ui-icons-react/PolygonIcon";
+import PolygonAreaIcon from "calcite-ui-icons-react/PolygonAreaIcon";
 import PolygonLineCheckIcon from "calcite-ui-icons-react/PolygonLineCheckIcon";
 import PolygonVerticesIcon from "calcite-ui-icons-react/PolygonVerticesIcon";
 import PopupIcon from "calcite-ui-icons-react/PopupIcon";
@@ -434,11 +443,13 @@ import QrCodeIcon from "calcite-ui-icons-react/QrCodeIcon";
 import QtCodeIcon from "calcite-ui-icons-react/QtCodeIcon";
 import QuestionFIcon from "calcite-ui-icons-react/QuestionFIcon";
 import QuestionIcon from "calcite-ui-icons-react/QuestionIcon";
+import QuestionMarkIcon from "calcite-ui-icons-react/QuestionMarkIcon";
 import QuoteIcon from "calcite-ui-icons-react/QuoteIcon";
 import RampLeftIcon from "calcite-ui-icons-react/RampLeftIcon";
 import RampRightIcon from "calcite-ui-icons-react/RampRightIcon";
 import RecentIcon from "calcite-ui-icons-react/RecentIcon";
 import RectangleIcon from "calcite-ui-icons-react/RectangleIcon";
+import RectangleAreaIcon from "calcite-ui-icons-react/RectangleAreaIcon";
 import RectanglePlusIcon from "calcite-ui-icons-react/RectanglePlusIcon";
 import RedoIcon from "calcite-ui-icons-react/RedoIcon";
 import RefreshIcon from "calcite-ui-icons-react/RefreshIcon";
@@ -470,12 +481,16 @@ import SaveIcon from "calcite-ui-icons-react/SaveIcon";
 import ScissorsIcon from "calcite-ui-icons-react/ScissorsIcon";
 import SeamlinesIcon from "calcite-ui-icons-react/SeamlinesIcon";
 import SearchIcon from "calcite-ui-icons-react/SearchIcon";
+import SecurityIcon from "calcite-ui-icons-react/SecurityIcon";
 import SelectCategoryIcon from "calcite-ui-icons-react/SelectCategoryIcon";
 import SelectRangeIcon from "calcite-ui-icons-react/SelectRangeIcon";
 import SelectionIcon from "calcite-ui-icons-react/SelectionIcon";
+import SelectionFilterIcon from "calcite-ui-icons-react/SelectionFilterIcon";
+import SelectionXIcon from "calcite-ui-icons-react/SelectionXIcon";
 import SendIcon from "calcite-ui-icons-react/SendIcon";
 import SeparatorIcon from "calcite-ui-icons-react/SeparatorIcon";
 import SerialPortIcon from "calcite-ui-icons-react/SerialPortIcon";
+import ServerIcon from "calcite-ui-icons-react/ServerIcon";
 import ServicesIcon from "calcite-ui-icons-react/ServicesIcon";
 import ShapesIcon from "calcite-ui-icons-react/ShapesIcon";
 import ShareIcon from "calcite-ui-icons-react/ShareIcon";
@@ -492,7 +507,9 @@ import SlidersIcon from "calcite-ui-icons-react/SlidersIcon";
 import SlidersHorizontalIcon from "calcite-ui-icons-react/SlidersHorizontalIcon";
 import SlideshowIcon from "calcite-ui-icons-react/SlideshowIcon";
 import SortAscendingIcon from "calcite-ui-icons-react/SortAscendingIcon";
+import SortAscendingArrowIcon from "calcite-ui-icons-react/SortAscendingArrowIcon";
 import SortDescendingIcon from "calcite-ui-icons-react/SortDescendingIcon";
+import SortDescendingArrowIcon from "calcite-ui-icons-react/SortDescendingArrowIcon";
 import SoundIcon from "calcite-ui-icons-react/SoundIcon";
 import SoundOffIcon from "calcite-ui-icons-react/SoundOffIcon";
 import SoundUnavailableIcon from "calcite-ui-icons-react/SoundUnavailableIcon";
@@ -503,6 +520,7 @@ import SpeechBubblesIcon from "calcite-ui-icons-react/SpeechBubblesIcon";
 import SpinnerIcon from "calcite-ui-icons-react/SpinnerIcon";
 import SplitIcon from "calcite-ui-icons-react/SplitIcon";
 import SquareIcon from "calcite-ui-icons-react/SquareIcon";
+import SquareAreaIcon from "calcite-ui-icons-react/SquareAreaIcon";
 import StairsIcon from "calcite-ui-icons-react/StairsIcon";
 import StarFIcon from "calcite-ui-icons-react/StarFIcon";
 import StarIcon from "calcite-ui-icons-react/StarIcon";
@@ -523,6 +541,7 @@ import TakePedestrianRampIcon from "calcite-ui-icons-react/TakePedestrianRampIco
 import TextIcon from "calcite-ui-icons-react/TextIcon";
 import TextLargeIcon from "calcite-ui-icons-react/TextLargeIcon";
 import TextMediumIcon from "calcite-ui-icons-react/TextMediumIcon";
+import TextParagraphLargeIcon from "calcite-ui-icons-react/TextParagraphLargeIcon";
 import TextSmallIcon from "calcite-ui-icons-react/TextSmallIcon";
 import TileLayerIcon from "calcite-ui-icons-react/TileLayerIcon";
 import TimerIcon from "calcite-ui-icons-react/TimerIcon";
@@ -1339,6 +1358,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='BookIcon'
+        key='BookIcon'
+        import='import BookIcon from "calcite-ui-icons-react/BookIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <BookIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='BookmarkIcon'
         key='BookmarkIcon'
         import='import BookmarkIcon from "calcite-ui-icons-react/BookmarkIcon";'
@@ -1735,6 +1766,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='CheckSquareFIcon'
+        key='CheckSquareFIcon'
+        import='import CheckSquareFIcon from "calcite-ui-icons-react/CheckSquareFIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <CheckSquareFIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='ChevronDownIcon'
         key='ChevronDownIcon'
         import='import ChevronDownIcon from "calcite-ui-icons-react/ChevronDownIcon";'
@@ -1862,6 +1905,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <CircleIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='CircleAreaIcon'
+        key='CircleAreaIcon'
+        import='import CircleAreaIcon from "calcite-ui-icons-react/CircleAreaIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <CircleAreaIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -2851,6 +2906,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='ExtentFilterIcon'
+        key='ExtentFilterIcon'
+        import='import ExtentFilterIcon from "calcite-ui-icons-react/ExtentFilterIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <ExtentFilterIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='EyedropperIcon'
         key='EyedropperIcon'
         import='import EyedropperIcon from "calcite-ui-icons-react/EyedropperIcon";'
@@ -3271,6 +3338,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='FooterIcon'
+        key='FooterIcon'
+        import='import FooterIcon from "calcite-ui-icons-react/FooterIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <FooterIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='FootprintIcon'
         key='FootprintIcon'
         import='import FootprintIcon from "calcite-ui-icons-react/FootprintIcon";'
@@ -3422,6 +3501,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <FunctionIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='GalleryIcon'
+        key='GalleryIcon'
+        import='import GalleryIcon from "calcite-ui-icons-react/GalleryIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <GalleryIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -3986,6 +4077,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <InformationIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='InformationLetterIcon'
+        key='InformationLetterIcon'
+        import='import InformationLetterIcon from "calcite-ui-icons-react/InformationLetterIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <InformationLetterIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -4999,6 +5102,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='MobileOffIcon'
+        key='MobileOffIcon'
+        import='import MobileOffIcon from "calcite-ui-icons-react/MobileOffIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <MobileOffIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='MonitorIcon'
         key='MonitorIcon'
         import='import MonitorIcon from "calcite-ui-icons-react/MonitorIcon";'
@@ -5599,6 +5714,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='PolygonAreaIcon'
+        key='PolygonAreaIcon'
+        import='import PolygonAreaIcon from "calcite-ui-icons-react/PolygonAreaIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <PolygonAreaIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='PolygonLineCheckIcon'
         key='PolygonLineCheckIcon'
         import='import PolygonLineCheckIcon from "calcite-ui-icons-react/PolygonLineCheckIcon";'
@@ -5779,6 +5906,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='QuestionMarkIcon'
+        key='QuestionMarkIcon'
+        import='import QuestionMarkIcon from "calcite-ui-icons-react/QuestionMarkIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <QuestionMarkIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='QuoteIcon'
         key='QuoteIcon'
         import='import QuoteIcon from "calcite-ui-icons-react/QuoteIcon";'
@@ -5834,6 +5973,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <RectangleIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='RectangleAreaIcon'
+        key='RectangleAreaIcon'
+        import='import RectangleAreaIcon from "calcite-ui-icons-react/RectangleAreaIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <RectangleAreaIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -6211,6 +6362,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='SecurityIcon'
+        key='SecurityIcon'
+        import='import SecurityIcon from "calcite-ui-icons-react/SecurityIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SecurityIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='SelectCategoryIcon'
         key='SelectCategoryIcon'
         import='import SelectCategoryIcon from "calcite-ui-icons-react/SelectCategoryIcon";'
@@ -6247,6 +6410,30 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='SelectionFilterIcon'
+        key='SelectionFilterIcon'
+        import='import SelectionFilterIcon from "calcite-ui-icons-react/SelectionFilterIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SelectionFilterIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='SelectionXIcon'
+        key='SelectionXIcon'
+        import='import SelectionXIcon from "calcite-ui-icons-react/SelectionXIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SelectionXIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='SendIcon'
         key='SendIcon'
         import='import SendIcon from "calcite-ui-icons-react/SendIcon";'
@@ -6278,6 +6465,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <SerialPortIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='ServerIcon'
+        key='ServerIcon'
+        import='import ServerIcon from "calcite-ui-icons-react/ServerIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <ServerIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -6475,6 +6674,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='SortAscendingArrowIcon'
+        key='SortAscendingArrowIcon'
+        import='import SortAscendingArrowIcon from "calcite-ui-icons-react/SortAscendingArrowIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SortAscendingArrowIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='SortDescendingIcon'
         key='SortDescendingIcon'
         import='import SortDescendingIcon from "calcite-ui-icons-react/SortDescendingIcon";'
@@ -6482,6 +6693,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <SortDescendingIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='SortDescendingArrowIcon'
+        key='SortDescendingArrowIcon'
+        import='import SortDescendingArrowIcon from "calcite-ui-icons-react/SortDescendingArrowIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SortDescendingArrowIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -6602,6 +6825,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <SquareIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='SquareAreaIcon'
+        key='SquareAreaIcon'
+        import='import SquareAreaIcon from "calcite-ui-icons-react/SquareAreaIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SquareAreaIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -6842,6 +7077,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <TextMediumIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='TextParagraphLargeIcon'
+        key='TextParagraphLargeIcon'
+        import='import TextParagraphLargeIcon from "calcite-ui-icons-react/TextParagraphLargeIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <TextParagraphLargeIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
