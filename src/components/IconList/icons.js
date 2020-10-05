@@ -44,6 +44,7 @@ import ArrowUpLeftIcon from "calcite-ui-icons-react/ArrowUpLeftIcon";
 import ArrowUpRightIcon from "calcite-ui-icons-react/ArrowUpRightIcon";
 import ArticleIcon from "calcite-ui-icons-react/ArticleIcon";
 import AttachmentIcon from "calcite-ui-icons-react/AttachmentIcon";
+import AttachmentPlusIcon from "calcite-ui-icons-react/AttachmentPlusIcon";
 import AutomationIcon from "calcite-ui-icons-react/AutomationIcon";
 import BananaIcon from "calcite-ui-icons-react/BananaIcon";
 import BasemapIcon from "calcite-ui-icons-react/BasemapIcon";
@@ -73,12 +74,14 @@ import BracketsCurlyIcon from "calcite-ui-icons-react/BracketsCurlyIcon";
 import BrightnessIcon from "calcite-ui-icons-react/BrightnessIcon";
 import BrowserIcon from "calcite-ui-icons-react/BrowserIcon";
 import BrushMarkIcon from "calcite-ui-icons-react/BrushMarkIcon";
+import BrushMarkPlusIcon from "calcite-ui-icons-react/BrushMarkPlusIcon";
 import ButtonIcon from "calcite-ui-icons-react/ButtonIcon";
 import CalculatorIcon from "calcite-ui-icons-react/CalculatorIcon";
 import CalendarIcon from "calcite-ui-icons-react/CalendarIcon";
 import CameraIcon from "calcite-ui-icons-react/CameraIcon";
 import CameraFlashOffIcon from "calcite-ui-icons-react/CameraFlashOffIcon";
 import CameraFlashOnIcon from "calcite-ui-icons-react/CameraFlashOnIcon";
+import CameraPlusIcon from "calcite-ui-icons-react/CameraPlusIcon";
 import CameraSwitchFrontBackIcon from "calcite-ui-icons-react/CameraSwitchFrontBackIcon";
 import CarIcon from "calcite-ui-icons-react/CarIcon";
 import CaretDoubleHorizontalIcon from "calcite-ui-icons-react/CaretDoubleHorizontalIcon";
@@ -155,6 +158,7 @@ import DashboardIcon from "calcite-ui-icons-react/DashboardIcon";
 import DataIcon from "calcite-ui-icons-react/DataIcon";
 import DataCheckIcon from "calcite-ui-icons-react/DataCheckIcon";
 import DataClockChartIcon from "calcite-ui-icons-react/DataClockChartIcon";
+import DebugIcon from "calcite-ui-icons-react/DebugIcon";
 import DeepLearningIcon from "calcite-ui-icons-react/DeepLearningIcon";
 import DeepLearningProjectIcon from "calcite-ui-icons-react/DeepLearningProjectIcon";
 import DescriptionIcon from "calcite-ui-icons-react/DescriptionIcon";
@@ -371,6 +375,7 @@ import MergeIcon from "calcite-ui-icons-react/MergeIcon";
 import MergeOnHighwayIcon from "calcite-ui-icons-react/MergeOnHighwayIcon";
 import MergeOnHighwayRightIcon from "calcite-ui-icons-react/MergeOnHighwayRightIcon";
 import MicrophoneIcon from "calcite-ui-icons-react/MicrophoneIcon";
+import MicrophonePlusIcon from "calcite-ui-icons-react/MicrophonePlusIcon";
 import MinimizeIcon from "calcite-ui-icons-react/MinimizeIcon";
 import MinimumIcon from "calcite-ui-icons-react/MinimumIcon";
 import MinimumGraphIcon from "calcite-ui-icons-react/MinimumGraphIcon";
@@ -413,6 +418,7 @@ import PauseIcon from "calcite-ui-icons-react/PauseIcon";
 import PenIcon from "calcite-ui-icons-react/PenIcon";
 import PencilIcon from "calcite-ui-icons-react/PencilIcon";
 import PencilMarkIcon from "calcite-ui-icons-react/PencilMarkIcon";
+import PencilMarkPlusIcon from "calcite-ui-icons-react/PencilMarkPlusIcon";
 import PencilSquareIcon from "calcite-ui-icons-react/PencilSquareIcon";
 import PercentIcon from "calcite-ui-icons-react/PercentIcon";
 import PersonIcon from "calcite-ui-icons-react/PersonIcon";
@@ -506,6 +512,7 @@ import SidecarIcon from "calcite-ui-icons-react/SidecarIcon";
 import SigmaIcon from "calcite-ui-icons-react/SigmaIcon";
 import SignInIcon from "calcite-ui-icons-react/SignInIcon";
 import SignOutIcon from "calcite-ui-icons-react/SignOutIcon";
+import SkyPlotIcon from "calcite-ui-icons-react/SkyPlotIcon";
 import SliceIcon from "calcite-ui-icons-react/SliceIcon";
 import SlidersIcon from "calcite-ui-icons-react/SlidersIcon";
 import SlidersHorizontalIcon from "calcite-ui-icons-react/SlidersHorizontalIcon";
@@ -515,6 +522,7 @@ import SortAscendingArrowIcon from "calcite-ui-icons-react/SortAscendingArrowIco
 import SortDescendingIcon from "calcite-ui-icons-react/SortDescendingIcon";
 import SortDescendingArrowIcon from "calcite-ui-icons-react/SortDescendingArrowIcon";
 import SoundIcon from "calcite-ui-icons-react/SoundIcon";
+import SoundLowIcon from "calcite-ui-icons-react/SoundLowIcon";
 import SoundOffIcon from "calcite-ui-icons-react/SoundOffIcon";
 import SoundUnavailableIcon from "calcite-ui-icons-react/SoundUnavailableIcon";
 import SpeechBubbleIcon from "calcite-ui-icons-react/SpeechBubbleIcon";
@@ -525,6 +533,7 @@ import SpinnerIcon from "calcite-ui-icons-react/SpinnerIcon";
 import SplitIcon from "calcite-ui-icons-react/SplitIcon";
 import SquareIcon from "calcite-ui-icons-react/SquareIcon";
 import SquareAreaIcon from "calcite-ui-icons-react/SquareAreaIcon";
+import SquareFIcon from "calcite-ui-icons-react/SquareFIcon";
 import StairsIcon from "calcite-ui-icons-react/StairsIcon";
 import StarFIcon from "calcite-ui-icons-react/StarFIcon";
 import StarIcon from "calcite-ui-icons-react/StarIcon";
@@ -573,6 +582,7 @@ import VertexMoveIcon from "calcite-ui-icons-react/VertexMoveIcon";
 import VertexPlusIcon from "calcite-ui-icons-react/VertexPlusIcon";
 import VertexXIcon from "calcite-ui-icons-react/VertexXIcon";
 import VideoIcon from "calcite-ui-icons-react/VideoIcon";
+import VideoPlusIcon from "calcite-ui-icons-react/VideoPlusIcon";
 import VideoWebIcon from "calcite-ui-icons-react/VideoWebIcon";
 import ViewHideIcon from "calcite-ui-icons-react/ViewHideIcon";
 import ViewMixedIcon from "calcite-ui-icons-react/ViewMixedIcon";
@@ -1125,6 +1135,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='AttachmentPlusIcon'
+        key='AttachmentPlusIcon'
+        import='import AttachmentPlusIcon from "calcite-ui-icons-react/AttachmentPlusIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <AttachmentPlusIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='AutomationIcon'
         key='AutomationIcon'
         import='import AutomationIcon from "calcite-ui-icons-react/AutomationIcon";'
@@ -1473,6 +1495,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='BrushMarkPlusIcon'
+        key='BrushMarkPlusIcon'
+        import='import BrushMarkPlusIcon from "calcite-ui-icons-react/BrushMarkPlusIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <BrushMarkPlusIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='ButtonIcon'
         key='ButtonIcon'
         import='import ButtonIcon from "calcite-ui-icons-react/ButtonIcon";'
@@ -1540,6 +1574,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <CameraFlashOnIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='CameraPlusIcon'
+        key='CameraPlusIcon'
+        import='import CameraPlusIcon from "calcite-ui-icons-react/CameraPlusIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <CameraPlusIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -2452,6 +2498,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <DataClockChartIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='DebugIcon'
+        key='DebugIcon'
+        import='import DebugIcon from "calcite-ui-icons-react/DebugIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <DebugIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -5049,6 +5107,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='MicrophonePlusIcon'
+        key='MicrophonePlusIcon'
+        import='import MicrophonePlusIcon from "calcite-ui-icons-react/MicrophonePlusIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <MicrophonePlusIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='MinimizeIcon'
         key='MinimizeIcon'
         import='import MinimizeIcon from "calcite-ui-icons-react/MinimizeIcon";'
@@ -5548,6 +5618,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <PencilMarkIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='PencilMarkPlusIcon'
+        key='PencilMarkPlusIcon'
+        import='import PencilMarkPlusIcon from "calcite-ui-icons-react/PencilMarkPlusIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <PencilMarkPlusIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -6669,6 +6751,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='SkyPlotIcon'
+        key='SkyPlotIcon'
+        import='import SkyPlotIcon from "calcite-ui-icons-react/SkyPlotIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SkyPlotIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='SliceIcon'
         key='SliceIcon'
         import='import SliceIcon from "calcite-ui-icons-react/SliceIcon";'
@@ -6772,6 +6866,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <SoundIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='SoundLowIcon'
+        key='SoundLowIcon'
+        import='import SoundLowIcon from "calcite-ui-icons-react/SoundLowIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SoundLowIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -6892,6 +6998,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <SquareAreaIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='SquareFIcon'
+        key='SquareFIcon'
+        import='import SquareFIcon from "calcite-ui-icons-react/SquareFIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SquareFIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -7468,6 +7586,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <VideoIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='VideoPlusIcon'
+        key='VideoPlusIcon'
+        import='import VideoPlusIcon from "calcite-ui-icons-react/VideoPlusIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <VideoPlusIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
