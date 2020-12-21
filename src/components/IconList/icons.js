@@ -520,6 +520,7 @@ import SliceIcon from "calcite-ui-icons-react/SliceIcon";
 import SlidersIcon from "calcite-ui-icons-react/SlidersIcon";
 import SlidersHorizontalIcon from "calcite-ui-icons-react/SlidersHorizontalIcon";
 import SlideshowIcon from "calcite-ui-icons-react/SlideshowIcon";
+import SmartCameraIcon from "calcite-ui-icons-react/SmartCameraIcon";
 import SortAscendingIcon from "calcite-ui-icons-react/SortAscendingIcon";
 import SortAscendingArrowIcon from "calcite-ui-icons-react/SortAscendingArrowIcon";
 import SortDescendingIcon from "calcite-ui-icons-react/SortDescendingIcon";
@@ -572,6 +573,7 @@ import UnderlineIcon from "calcite-ui-icons-react/UnderlineIcon";
 import UndoIcon from "calcite-ui-icons-react/UndoIcon";
 import UnlinkIcon from "calcite-ui-icons-react/UnlinkIcon";
 import UnlockIcon from "calcite-ui-icons-react/UnlockIcon";
+import UnselectedIcon from "calcite-ui-icons-react/UnselectedIcon";
 import UploadIcon from "calcite-ui-icons-react/UploadIcon";
 import UploadToIcon from "calcite-ui-icons-react/UploadToIcon";
 import UrbanModelIcon from "calcite-ui-icons-react/UrbanModelIcon";
@@ -6852,6 +6854,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='SmartCameraIcon'
+        key='SmartCameraIcon'
+        import='import SmartCameraIcon from "calcite-ui-icons-react/SmartCameraIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SmartCameraIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='SortAscendingIcon'
         key='SortAscendingIcon'
         import='import SortAscendingIcon from "calcite-ui-icons-react/SortAscendingIcon";'
@@ -7471,6 +7485,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <UnlockIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='UnselectedIcon'
+        key='UnselectedIcon'
+        import='import UnselectedIcon from "calcite-ui-icons-react/UnselectedIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <UnselectedIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
