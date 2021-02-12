@@ -60,8 +60,8 @@ import BearLeftIcon from "calcite-ui-icons-react/BearLeftIcon";
 import BearRightIcon from "calcite-ui-icons-react/BearRightIcon";
 import BeginningFIcon from "calcite-ui-icons-react/BeginningFIcon";
 import BeginningIcon from "calcite-ui-icons-react/BeginningIcon";
-import BellIcon from "calcite-ui-icons-react/BellIcon";
 import BellFIcon from "calcite-ui-icons-react/BellFIcon";
+import BellIcon from "calcite-ui-icons-react/BellIcon";
 import BellOffIcon from "calcite-ui-icons-react/BellOffIcon";
 import BetaIcon from "calcite-ui-icons-react/BetaIcon";
 import BikingIcon from "calcite-ui-icons-react/BikingIcon";
@@ -104,8 +104,8 @@ import CheckIcon from "calcite-ui-icons-react/CheckIcon";
 import CheckCircleFIcon from "calcite-ui-icons-react/CheckCircleFIcon";
 import CheckCircleIcon from "calcite-ui-icons-react/CheckCircleIcon";
 import CheckLayerIcon from "calcite-ui-icons-react/CheckLayerIcon";
-import CheckSquareIcon from "calcite-ui-icons-react/CheckSquareIcon";
 import CheckSquareFIcon from "calcite-ui-icons-react/CheckSquareFIcon";
+import CheckSquareIcon from "calcite-ui-icons-react/CheckSquareIcon";
 import ChevronDownIcon from "calcite-ui-icons-react/ChevronDownIcon";
 import ChevronLeftIcon from "calcite-ui-icons-react/ChevronLeftIcon";
 import ChevronRightIcon from "calcite-ui-icons-react/ChevronRightIcon";
@@ -149,6 +149,7 @@ import ContrastIcon from "calcite-ui-icons-react/ContrastIcon";
 import CopyIcon from "calcite-ui-icons-react/CopyIcon";
 import CopyToClipboardIcon from "calcite-ui-icons-react/CopyToClipboardIcon";
 import CreditsIcon from "calcite-ui-icons-react/CreditsIcon";
+import CropIcon from "calcite-ui-icons-react/CropIcon";
 import CubeIcon from "calcite-ui-icons-react/CubeIcon";
 import CursorIcon from "calcite-ui-icons-react/CursorIcon";
 import CursorClickIcon from "calcite-ui-icons-react/CursorClickIcon";
@@ -542,9 +543,9 @@ import SpeechBubbleSocialIcon from "calcite-ui-icons-react/SpeechBubbleSocialIco
 import SpeechBubblesIcon from "calcite-ui-icons-react/SpeechBubblesIcon";
 import SpinnerIcon from "calcite-ui-icons-react/SpinnerIcon";
 import SplitIcon from "calcite-ui-icons-react/SplitIcon";
+import SquareFIcon from "calcite-ui-icons-react/SquareFIcon";
 import SquareIcon from "calcite-ui-icons-react/SquareIcon";
 import SquareAreaIcon from "calcite-ui-icons-react/SquareAreaIcon";
-import SquareFIcon from "calcite-ui-icons-react/SquareFIcon";
 import StairsIcon from "calcite-ui-icons-react/StairsIcon";
 import StarFIcon from "calcite-ui-icons-react/StarFIcon";
 import StarIcon from "calcite-ui-icons-react/StarIcon";
@@ -1341,18 +1342,6 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
-        name='BellIcon'
-        key='BellIcon'
-        import='import BellIcon from "calcite-ui-icons-react/BellIcon";'
-      >
-        <IconContext.Consumer>
-          {iconProps => (
-            <BellIcon size={iconProps.size} color={iconProps.color} />
-          )}
-        </IconContext.Consumer>
-      </Icon>,
-    
-      <Icon
         name='BellFIcon'
         key='BellFIcon'
         import='import BellFIcon from "calcite-ui-icons-react/BellFIcon";'
@@ -1360,6 +1349,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <BellFIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='BellIcon'
+        key='BellIcon'
+        import='import BellIcon from "calcite-ui-icons-react/BellIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <BellIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -1869,18 +1870,6 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
-        name='CheckSquareIcon'
-        key='CheckSquareIcon'
-        import='import CheckSquareIcon from "calcite-ui-icons-react/CheckSquareIcon";'
-      >
-        <IconContext.Consumer>
-          {iconProps => (
-            <CheckSquareIcon size={iconProps.size} color={iconProps.color} />
-          )}
-        </IconContext.Consumer>
-      </Icon>,
-    
-      <Icon
         name='CheckSquareFIcon'
         key='CheckSquareFIcon'
         import='import CheckSquareFIcon from "calcite-ui-icons-react/CheckSquareFIcon";'
@@ -1888,6 +1877,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <CheckSquareFIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='CheckSquareIcon'
+        key='CheckSquareIcon'
+        import='import CheckSquareIcon from "calcite-ui-icons-react/CheckSquareIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <CheckSquareIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -2404,6 +2405,18 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <CreditsIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
+        name='CropIcon'
+        key='CropIcon'
+        import='import CropIcon from "calcite-ui-icons-react/CropIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <CropIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
@@ -7125,6 +7138,18 @@ export const iconComps = (props) => {
       </Icon>,
     
       <Icon
+        name='SquareFIcon'
+        key='SquareFIcon'
+        import='import SquareFIcon from "calcite-ui-icons-react/SquareFIcon";'
+      >
+        <IconContext.Consumer>
+          {iconProps => (
+            <SquareFIcon size={iconProps.size} color={iconProps.color} />
+          )}
+        </IconContext.Consumer>
+      </Icon>,
+    
+      <Icon
         name='SquareIcon'
         key='SquareIcon'
         import='import SquareIcon from "calcite-ui-icons-react/SquareIcon";'
@@ -7144,18 +7169,6 @@ export const iconComps = (props) => {
         <IconContext.Consumer>
           {iconProps => (
             <SquareAreaIcon size={iconProps.size} color={iconProps.color} />
-          )}
-        </IconContext.Consumer>
-      </Icon>,
-    
-      <Icon
-        name='SquareFIcon'
-        key='SquareFIcon'
-        import='import SquareFIcon from "calcite-ui-icons-react/SquareFIcon";'
-      >
-        <IconContext.Consumer>
-          {iconProps => (
-            <SquareFIcon size={iconProps.size} color={iconProps.color} />
           )}
         </IconContext.Consumer>
       </Icon>,
